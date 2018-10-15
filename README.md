@@ -32,3 +32,5 @@ levelplot(pm25,
           col.regions = pm25_laei2013_colours,
           at = pm25_laei2013_breaks)
  ```
+## Example output
+

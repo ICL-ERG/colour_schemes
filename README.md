@@ -34,4 +34,4 @@ levelplot(pm25,
  ```
 ## Example output
 
-[](pm25_2013_havering_no_buildings[1].png)
+![PM2.5 in Havering in 2013](pm25_2013_havering_no_buildings[1].png)

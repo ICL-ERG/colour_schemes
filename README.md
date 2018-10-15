@@ -9,7 +9,10 @@ The following colour schemes create breaks and colours within R that can be used
 * [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/pm25_laei2013_colours_breaks.R)
 
 # Example usage
+```r
 pm25       <- raster('pm25.asc')
+
+eval(parse(text = getURL('pm25_laei2013_colours_breaks.R')))
 
 levelplot(pm25,
           maxpixels = pm25@ncols/2 * pm25@nrows/2,
@@ -28,3 +31,4 @@ levelplot(pm25,
           scales = list(draw = FALSE),
           col.regions = pm25_laei2013_colours,
           at = pm25_laei2013_breaks)
+ ```

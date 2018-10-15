@@ -1,6 +1,6 @@
 # Colour schemes for plotting air quality data
 
-The following colour schemes create breaks and colours within R that can be used within various other packages to plot raster files of air quality.
+The following colour schemes create breaks and colours within R that can be used within various other packages to plot raster files [for example from the LAEI](https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013) of air quality.
 
 # LAEI 2013 Colours
 * [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/no2_laei2013_colours_breaks.R)

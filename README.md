@@ -34,3 +34,4 @@ levelplot(pm25,
  ```
 ## Example output
 
+[](pm25_2013_havering_no_buildings[1].png)

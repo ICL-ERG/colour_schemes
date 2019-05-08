@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/KCL-ERG/colour_schemes/master/2013/no2_laei201
 ## LAEI 2013 Colours
 * [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/no2_laei2013_colours_breaks.R)
 * [PM10](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10_laei2013_colours_breaks.R)
-* [PM10 days](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10d_laei2013_breaks_colours.R)
+* [PM10 days](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10d_laei2013_colours_breaks.R)
 * [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm25_laei2013_colours_breaks.R)
 
 ## LAEI 2016 Colours

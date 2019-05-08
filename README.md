@@ -20,7 +20,7 @@ The following colour schemes create breaks and colours within R that can be used
 ```r
 pm25       <- raster('pm25.asc')
 
-eval(parse(text = getURL('pm25_laei2013_colours_breaks.R')))
+source('https://raw.githubusercontent.com/KCL-ERG/colour_schemes/master/2013/pm25_laei2013_colours_breaks.R')
 
 levelplot(pm25,
           maxpixels = pm25@ncols/2 * pm25@nrows/2,

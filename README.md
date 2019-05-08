@@ -8,6 +8,11 @@ The following colour schemes create breaks and colours within R that can be used
 * [PM10 days](https://github.com/KCL-ERG/colour_schemes/blob/master/pm10d_laei2013_breaks_colours.R)
 * [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/pm25_laei2013_colours_breaks.R)
 
+## LAEI 2016 Colours
+* [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/no2_laei2016_colours_breaks.R)
+* [NOx](https://github.com/KCL-ERG/colour_schemes/blob/master/nox_laei2016_colours_breaks.R)
+
+
 ## Example usage
 ```r
 pm25       <- raster('pm25.asc')

@@ -2,15 +2,20 @@
 
 The following colour schemes create breaks and colours within R that can be used within various other packages to plot raster files of air quality. [For example from the LAEI](https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013)
 
+https://raw.githubusercontent.com/KCL-ERG/colour_schemes/master/2013/no2_laei2013_colours_breaks.R
+
 ## LAEI 2013 Colours
-* [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/no2_laei2013_colours_breaks.R)
-* [PM10](https://github.com/KCL-ERG/colour_schemes/blob/master/pm10_laei2013_colours_breaks.R)
-* [PM10 days](https://github.com/KCL-ERG/colour_schemes/blob/master/pm10d_laei2013_breaks_colours.R)
-* [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/pm25_laei2013_colours_breaks.R)
+* [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/no2_laei2013_colours_breaks.R)
+* [PM10](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10_laei2013_colours_breaks.R)
+* [PM10 days](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10d_laei2013_breaks_colours.R)
+* [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm25_laei2013_colours_breaks.R)
 
 ## LAEI 2016 Colours
-* [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/no2_laei2016_colours_breaks.R)
-* [NOx](https://github.com/KCL-ERG/colour_schemes/blob/master/nox_laei2016_colours_breaks.R)
+* [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/2016/no2_laei2016_colours_breaks.R)
+* [NOx](https://github.com/KCL-ERG/colour_schemes/blob/master/2016/nox_laei2016_colours_breaks.R)
+* [PM10](https://github.com/KCL-ERG/colour_schemes/blob/master/2016/pm10_laei2016_colours_breaks.R)
+* [PM10d](https://github.com/KCL-ERG/colour_schemes/blob/master/2016/pm10d_laei2016_colours_breaks.R)
+* [PM2.5](https://github.com/KCL-ERG/colour_schemes/blob/master/2016/pm25_laei2016_colours_breaks.R)
 
 
 ## Example usage

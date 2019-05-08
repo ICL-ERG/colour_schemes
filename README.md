@@ -2,8 +2,6 @@
 
 The following colour schemes create breaks and colours within R that can be used within various other packages to plot raster files of air quality. [For example from the LAEI](https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013)
 
-https://raw.githubusercontent.com/KCL-ERG/colour_schemes/master/2013/no2_laei2013_colours_breaks.R
-
 ## LAEI 2013 Colours
 * [NO2](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/no2_laei2013_colours_breaks.R)
 * [PM10](https://github.com/KCL-ERG/colour_schemes/blob/master/2013/pm10_laei2013_colours_breaks.R)
